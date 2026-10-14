@@ -1,0 +1,36 @@
+Week 7 | Assignment 5 - Emerging Technology Diffusion Agent
+Governing question: 
+How far has this technology and application diffused, what is accelerating or inhibiting diffusion, and what does that stage imply for this organization?
+Expected effort: about 60-90 minutes. Stop at 90 minutes unless the instructor explicitly directs otherwise. Use ChatGPT/Codex and the supplied scaffold to reduce unnecessary mechanical work; preserve unresolved technical issues rather than turning the assignment into an open-ended development exercise. The quality of the evidence and judgment matters more than technical ornamentation or length.
+Purpose and Project Connection
+Create a specialist agent that applies diffusion theory to current evidence and distinguishes broad technology diffusion from diffusion of the specific application in the relevant industry or peer group.
+Professional Charge
+Build an agent that uses Rogers' diffusion concepts to assess where an emerging technology stands, why it is or is not spreading, and what the observed pattern implies for the intended application and organization. The agent should inform timing and peer-position judgment without taking over the broader adoption decision assigned to the next specialist.
+Required Scaffold and Tool Workflow
+Use the frozen MASY1800 Common Emerging Technology Agent Scaffold ZIP distributed through Brightspace. Make a working copy, place that working copy in your own GitHub repository, and use ChatGPT with Codex as the supported course development path. Do not rebuild or silently alter the frozen common intake/output architecture. Your work is to specialize the supplied scaffold for this assignment, test it, diagnose weaknesses, revise it, and preserve the resulting repository/branch/commit and test evidence. The standard scaffold workflow does not require an OpenAI API key: it builds a ChatGPT-ready prompt packet, and you save the structured ChatGPT response back into your working copy for validation.
+What to Do
+1.  
+Require the agent to assess relevant adopter categories and the five diffusion characteristics: relative advantage, compatibility, complexity, trialability, and observability.
+2.  
+Distinguish diffusion of the technology generally from diffusion of the proposed application and, where evidence permits, diffusion within the organization's industry or comparable peer group.
+3.  
+Identify change agents, opinion leaders, ecosystem factors, standards, complementary assets, or other forces that appear to accelerate or inhibit diffusion.
+4.  
+Require the organization-specific interpretation to consider whether the organization behaves more like an innovator/early adopter, fast follower, or conservative adopter, without changing the underlying evidence about diffusion stage.
+5.  
+Run the primary and context-contrast tests. Keep the technology constant and vary either the application or organizational adoption posture so that the timing implication should change.
+6.  
+Revise the agent and identify one diffusion claim for which the evidence is too weak, stale, geographically narrow, or industry-specific to support a confident conclusion.
+AI Leverage Hints
+Use AI to help map current evidence to Rogers' factors, but ask it to identify where the mapping is speculative rather than observed.
+Ask AI to generate a conservative and an aggressive organization considering the same technology and test whether the agent changes timing implications without changing the general diffusion evidence.
+Verify claims about adoption rates, installed base, industry use, market share, standards, or recent diffusion signals against dated original sources.
+Required Artifact
+Primary output: 
+A working Emerging Technology Diffusion Agent plus its Agent Record, diffusion-factor assessment, primary and contrast test record, dated evidence, one weak/ambiguous diffusion claim, and known limitations.
+Independent judgment: 
+Where does the technology/application appear to be in its diffusion process, what factor matters most, and what timing implication follows for this organization without yet making the full adoption decision?
+AI/verification note: 
+Briefly state how AI materially helped, how consequential factual or methodological guidance was checked, and where you relied on original evidence rather than model memory or generated summaries.
+Team Handoff
+Bring the agent package, the strongest diffusion signal, the most important inhibitor, the context-sensitive timing implication, and one caution the Adoption Agent should inherit.

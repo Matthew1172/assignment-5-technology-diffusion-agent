@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-13",
+  "timezone": "America/New_York",
+  "cases_checked": 4,
+  "api_runs": 6,
+  "frozen_core": "FROZEN CORE INTACT",
+  "copied_helper_byte_identical": true,
+  "secret_scan": "No matching key material found in publishable text files",
+  "responses": [
+    {
+      "file": "agents/diffusion_agent/responses/ambiguous_response.json",
+      "sha256": "973979006dc1a11278bc895063527c241bd2febe45ccf0a4d1350467e6b79243",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/diffusion_agent/responses/contrast_1_response.json",
+      "sha256": "1bee058ee719464cb2552504ed16bf3c32486e6f53a2704dafd2c510f8db0920",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/diffusion_agent/responses/contrast_2_response.json",
+      "sha256": "4f6fccaf86d9a813500327b25f38d805e2243b8735a60be74d6b05139a07b541",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/diffusion_agent/responses/diffusion_agent_ambiguous_prompt_response_2026-10-13_20-59-14_659215-0400.json",
+      "sha256": "973979006dc1a11278bc895063527c241bd2febe45ccf0a4d1350467e6b79243",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/diffusion_agent/responses/diffusion_agent_contrast_1_prompt_response_2026-10-13_20-56-13_212398-0400.json",
+      "sha256": "89c2fdb2e9c4002bbfae18b4fcef6eef44836dab1abe2b579196a56d69f0b363",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/diffusion_agent/responses/diffusion_agent_contrast_1_prompt_response_2026-10-13_20-59-09_265455-0400.json",
+      "sha256": "1bee058ee719464cb2552504ed16bf3c32486e6f53a2704dafd2c510f8db0920",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/diffusion_agent/responses/diffusion_agent_contrast_2_prompt_response_2026-10-13_20-59-12_510481-0400.json",
+      "sha256": "4f6fccaf86d9a813500327b25f38d805e2243b8735a60be74d6b05139a07b541",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/diffusion_agent/responses/diffusion_agent_primary_prompt_response_2026-10-13_20-56-13_212554-0400.json",
+      "sha256": "2c1c2c1ccc22fc8095da240ea84673c6b8bebd59b728554a9d3f28295fbeff02",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/diffusion_agent/responses/diffusion_agent_primary_prompt_response_2026-10-13_20-59-08_722101-0400.json",
+      "sha256": "64e8f9f1f07a3525d7f92c28b264ca8391ea5145e509ca23b670509f4d140017",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/diffusion_agent/responses/primary_response.json",
+      "sha256": "64e8f9f1f07a3525d7f92c28b264ca8391ea5145e509ca23b670509f4d140017",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/diffusion_agent/responses/v0_1/contrast_1_response.json",
+      "sha256": "89c2fdb2e9c4002bbfae18b4fcef6eef44836dab1abe2b579196a56d69f0b363",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/diffusion_agent/responses/v0_1/primary_response.json",
+      "sha256": "2c1c2c1ccc22fc8095da240ea84673c6b8bebd59b728554a9d3f28295fbeff02",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/diffusion_agent/responses/v0_2/ambiguous_response.json",
+      "sha256": "973979006dc1a11278bc895063527c241bd2febe45ccf0a4d1350467e6b79243",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/diffusion_agent/responses/v0_2/contrast_1_response.json",
+      "sha256": "1bee058ee719464cb2552504ed16bf3c32486e6f53a2704dafd2c510f8db0920",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/diffusion_agent/responses/v0_2/contrast_2_response.json",
+      "sha256": "4f6fccaf86d9a813500327b25f38d805e2243b8735a60be74d6b05139a07b541",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/diffusion_agent/responses/v0_2/primary_response.json",
+      "sha256": "64e8f9f1f07a3525d7f92c28b264ca8391ea5145e509ca23b670509f4d140017",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    }
+  ]
+}
